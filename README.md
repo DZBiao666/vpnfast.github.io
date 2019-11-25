@@ -118,7 +118,7 @@ PureVPN同样在全球70多个国家都配备了VPN服务器，拥有超过20000
 
 ![Surfshark](/image/surfshark.png)
 
-Surfshark中文支持友好，不限设备数量，翻墙速度不错，不过节点比较少
+Surfshark中文支持友好，不限设备数量，翻墙速度不错，不过节点比较少，香港节点可用
 
 - 优惠福利
 
