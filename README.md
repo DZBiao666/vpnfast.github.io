@@ -18,7 +18,7 @@ ExpressVPN可以说的上是业界的领导者了，凭借其领先的加密技�
 
 - 网络速度无敌快！！！
 
-我们使用<a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" target="_blank">youtube的4k画质</a>进行测试，结果发现最高可以支持2160P，根本不用缓冲！如果没有达到这个效果，请确认你当前的本地网络带宽是否受限。
+我们使用<a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" target="_blank">youtube的4k画质</a>进行测试，结果发现最高可以支持4K(2160P)，根本不用缓冲！如果没有达到这个效果，请确认你当前的本地网络带宽是否受限。
 
 - 全世界都能访问
 
