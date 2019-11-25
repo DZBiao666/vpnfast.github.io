@@ -58,36 +58,6 @@ NordVPN支持几乎所有设备，能允许多达6台设备同时在线，这个
 
 NordVPN在60个国家和地区拥有5700多个服务器。
 
-### <a href="http://qiangwaikan.com/go/panda" target="_blank">>> PandaVPN</a>
-
-![PandaVPN](/image/panda.png)
-
-PandaVPN相比其他几家来说要小众一些，所以价格也要便宜些，但是速度表现非常出色，购买和使用都很简单，预算有限的话可以下手了。
-
-- 优惠福利
-
-点击此链接获取优惠：<a href="http://qiangwaikan.com/go/panda" target="_blank">>> 每月1.99美元</a>
-
-- 速度表现优秀
-
-最高可以支持1440P画质播放，就这个价格来说表现非常优秀了。
-
-- 银行级的虚拟网络安全保护
-
-不管再任何公共场合访问网络，都会受到256位银行级的加密的保护，保证个人隐私不被窥探。
-
-- 操作简单
-
-同样支持Windows，Mac，iOS，Android这些常见客户端，UI做的非常简洁大方，只需要一个开关按钮就能连接VPN。
-
-- 全球技术支持
-
-在使用过程中遇到任何问题，都可以联系技术人员解决
-
-- 7天退款保证
-
-虽然不像ExpressVPN的30天内退款保证，但是如果有问题的话，基本上使用7天内就能发现了。
-
 ### <a href="http://qiangwaikan.com/go/pure" target="_blank">>> PureVPN</a>
 
 ![PureVPN](/image/pure.png)
@@ -118,11 +88,15 @@ PureVPN同样在全球70多个国家都配备了VPN服务器，拥有超过20000
 
 ![Surfshark](/image/surfshark.png)
 
-Surfshark中文支持友好，不限设备数量，翻墙速度不错，不过节点比较少，香港节点可用
+Surfshark中文支持友好，不限设备数量，翻墙速度表现不错，不过节点比较少，香港节点可用
 
 - 优惠福利
 
 点击此链接获取优惠：<a href="http://qiangwaikan.com/go/surfshark" target="_blank">>> 每月1.99美元</a>
+
+- 速度非常快
+
+使用香港节点测试发现，流畅播放4看视频。
 
 - 注重中国市场
 
@@ -139,6 +113,36 @@ Surfshark中文支持友好，不限设备数量，翻墙速度不错，不过�
 - 7*24小时技术支持
 
 在使用过程中如果遇到问题，可以联系他们的技术团队，全天候在线。
+
+### <a href="http://qiangwaikan.com/go/panda" target="_blank">>> PandaVPN</a>
+
+![PandaVPN](/image/panda.png)
+
+PandaVPN相比其他几家来说要小众一些，所以价格也要便宜些，但是速度表现非常出色，购买和使用都很简单。更新：最近节点挂的比较多，建议尽量选择上面几家
+
+- 优惠福利
+
+点击此链接获取优惠：<a href="http://qiangwaikan.com/go/panda" target="_blank">>> 每月1.99美元</a>
+
+- 速度表现优秀
+
+最高可以支持1440P画质播放，就这个价格来说表现非常优秀了。
+
+- 银行级的虚拟网络安全保护
+
+不管再任何公共场合访问网络，都会受到256位银行级的加密的保护，保证个人隐私不被窥探。
+
+- 操作简单
+
+同样支持Windows，Mac，iOS，Android这些常见客户端，UI做的非常简洁大方，只需要一个开关按钮就能连接VPN。
+
+- 全球技术支持
+
+在使用过程中遇到任何问题，都可以联系技术人员解决
+
+- 7天退款保证
+
+虽然不像ExpressVPN的30天内退款保证，但是如果有问题的话，基本上使用7天内就能发现了。
 
 ## 相关使用问题
 
