@@ -58,6 +58,36 @@ NordVPN支持几乎所有设备，能允许多达6台设备同时在线，这个
 
 NordVPN在60个国家和地区拥有5700多个服务器。
 
+### <a href="http://qiangwaikan.com/go/surfshark" target="_blank">>> Surfshark</a>
+
+![Surfshark](/image/surfshark.png)
+
+Surfshark中文支持友好，翻墙速度表现非常不错，不限设备数量，这点非比较与众不同。
+
+- 优惠福利
+
+点击此链接获取优惠：<a href="http://qiangwaikan.com/go/surfshark" target="_blank">>> 每月1.99美元</a>
+
+- 速度非常快
+
+使用香港节点测试发现，流畅播放4看视频。
+
+- 注重中国市场
+
+在全球拥70+地区拥有服务器，最近的部署在中国澳门地区，中文支持也非常友好
+
+- 安全性和匿名
+
+同样是具有军用级的加密技术，可以通过VPN实现匿名隐藏IP以及DNS隐藏等，最大限度的保护隐私安全。
+
+- 链接中断切换机制
+
+在复杂的网络连接中，网络意外断开是无法避免的事情，Surfshark实现了高效的网络切换。通过多个服务器的切换，这样也保证了隐私和匿名。
+
+- 7*24小时技术支持
+
+在使用过程中如果遇到问题，可以联系他们的技术团队，全天候在线。
+
 ### <a href="http://qiangwaikan.com/go/pure" target="_blank">>> PureVPN</a>
 
 ![PureVPN](/image/pure.png)
@@ -83,36 +113,6 @@ PureVPN同样在全球70多个国家都配备了VPN服务器，拥有超过20000
 - 对抗审查制度
 
 墙的主要检测手段就是根据流量指纹来判断，他们独有的加密协议，可以最大限度的绕开国内墙的检测。
-
-### <a href="http://qiangwaikan.com/go/surfshark" target="_blank">>> Surfshark</a>
-
-![Surfshark](/image/surfshark.png)
-
-Surfshark中文支持友好，不限设备数量，翻墙速度表现不错，不过节点比较少，香港节点可用
-
-- 优惠福利
-
-点击此链接获取优惠：<a href="http://qiangwaikan.com/go/surfshark" target="_blank">>> 每月1.99美元</a>
-
-- 速度非常快
-
-使用香港节点测试发现，流畅播放4看视频。
-
-- 注重中国市场
-
-在全球拥70+地区拥有服务器，最近的部署在中国澳门地区，中文支持也非常友好
-
-- 安全性和匿名
-
-同样是具有军用级的加密技术，可以通过VPN实现匿名隐藏IP以及DNS隐藏等，最大限度的保护隐私安全。
-
-- 链接中断切换机制
-
-在复杂的网络连接中，网络意外断开是无法避免的事情，Surfshark实现了高效的网络切换。通过多个服务器的切换，这样也保证了隐私和匿名。
-
-- 7*24小时技术支持
-
-在使用过程中如果遇到问题，可以联系他们的技术团队，全天候在线。
 
 ### <a href="http://qiangwaikan.com/go/panda" target="_blank">>> PandaVPN</a>
 
