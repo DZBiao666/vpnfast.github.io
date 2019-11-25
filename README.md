@@ -14,7 +14,7 @@ ExpressVPN可以说的上是业界的领导者了，凭借其领先的加密技�
 
 - 优惠福利
 
-点击此链接获取优惠：<a href="http://qiangwaikan.com/go/express" target="_blank">>> 买一年送三个月</a>
+点击直达：<a href="http://qiangwaikan.com/go/express" target="_blank">>> 买一年送三个月</a>
 
 - 网络速度无敌快！！！
 
@@ -40,7 +40,7 @@ NordVPN网络速度、稳定性以及综合实力目前来说仅次于ExpressVPN
 
 - 优惠福利
 
-点击此链接获取优惠：<a href="http://qiangwaikan.com/go/nord" target="_blank">>> 每月3.49美元</a>
+点击直达：<a href="http://qiangwaikan.com/go/nord" target="_blank">>> 每月3.49美元</a>
 
 - 速度非常快
 
@@ -66,7 +66,7 @@ Surfshark中文支持友好，翻墙速度表现非常不错，不限设备数�
 
 - 优惠福利
 
-点击此链接获取优惠：<a href="http://qiangwaikan.com/go/surfshark" target="_blank">>> 每月1.99美元</a>
+点击直达：<a href="http://qiangwaikan.com/go/surfshark" target="_blank">>> 每月1.99美元</a>
 
 - 速度非常快
 
@@ -96,7 +96,7 @@ Surfshark中文支持友好，翻墙速度表现非常不错，不限设备数�
 
 - 优惠福利
 
-点击此链接获取优惠：<a href="http://qiangwaikan.com/go/pure" target="_blank">>> 每月1.92美元</a>
+点击直达：<a href="http://qiangwaikan.com/go/pure" target="_blank">>> 每月1.92美元</a>
 
 - 速度非常快
 
@@ -122,7 +122,7 @@ PandaVPN相比其他几家来说要小众一些，所以价格也要便宜些，
 
 - 优惠福利
 
-点击此链接获取优惠：<a href="http://qiangwaikan.com/go/panda" target="_blank">>> 每月1.99美元</a>
+点击直达：<a href="http://qiangwaikan.com/go/panda" target="_blank">>> 每月1.99美元</a>
 
 - 速度表现优秀
 
