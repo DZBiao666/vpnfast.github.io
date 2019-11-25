@@ -14,13 +14,11 @@ ExpressVPN可以说的上是业界的领导者了，凭借其领先的加密技�
 
 - 优惠福利
 
-点击直达：<a href="http://qiangwaikan.com/go/express" target="_blank">>> 6.5折优惠，最低8.32美元/月</a>
+点击此链接获取优惠：<a href="http://qiangwaikan.com/go/express" target="_blank">>> 买一年送三个月</a>
 
 - 网络速度无敌快！！！
 
-我们使用<a href="https://www.youtube.com/watch?v=Bey4XXJAqS8&t=486s" target="_blank">youtube的4k画质</a>进行测试，结果发现最高可以支持2160P，根本不用缓冲！ExpressVPN牛B！如果没有达到这个效果，请确认你当前的本地网络带宽是否受限。
-
-![ExpressVPN-speed](/image/express-speed.jpg)
+我们使用<a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" target="_blank">youtube的4k画质</a>进行测试，结果发现最高可以支持2160P，根本不用缓冲！如果没有达到这个效果，请确认你当前的本地网络带宽是否受限。
 
 - 全世界都能访问
 
@@ -34,21 +32,45 @@ ExpressVPN可以说的上是业界的领导者了，凭借其领先的加密技�
 
 30之内如果你觉得ExpressVPN不好用，可以无条件退款，这点确实是大企业风范。
 
+### <a href="http://qiangwaikan.com/go/nord" target="_blank">>> NordVPN</a>
+
+![NordVPN](/image/nord.png)
+
+NordVPN网络速度、稳定性以及综合实力目前来说仅次于ExpressVPN，价格方面相对ExpressVPN便宜一些，通过United States节点实测可以翻墙。目前NordVPN的优惠计划非常划算，性价比非常高。
+
+- 优惠福利
+
+点击此链接获取优惠：<a href="http://qiangwaikan.com/go/nord" target="_blank">>> 每月3.49美元</a>
+
+- 速度非常快
+
+经过测试，发现速度稍稍低于ExpressVPN，但是观看4K视频依然流畅
+
+- 访问安全
+
+NordVPN拥有军用级别的加密技术，就算在公共场合，使用[wifi](https://zh.wikipedia.org/zh/Wi-Fi)等情况下，都能有效的保护网络浏览记录的隐私性，可以说是最安全的VPN了。
+
+- 保护所有设备
+
+NordVPN支持几乎所有设备，能允许多达6台设备同时在线，这个是非常良心了，很多VPN商家都只支持单点登陆。更贴心的是，连[Chrome](https://www.google.com/intl/zh-CN/chrome/)的网页代理扩展都提供了。NordVPN还具有严格的无日志政策，自动Kill Switch，[DNS泄露](https://zhuanlan.zhihu.com/p/47095852)防护，Onion Over VPN等功能。
+
+- 全球服务器支持
+
+NordVPN在60个国家和地区拥有5700多个服务器。
+
 ### <a href="http://qiangwaikan.com/go/panda" target="_blank">>> PandaVPN</a>
 
 ![PandaVPN](/image/panda.png)
 
-PandaVPN相比其他几家来说要小众一些，所以价格也要便宜些，但是速度表现非常出色，性价比非常高，购买和使用都很简单，预算有限的话可以下手了。
+PandaVPN相比其他几家来说要小众一些，所以价格也要便宜些，但是速度表现非常出色，购买和使用都很简单，预算有限的话可以下手了。
 
 - 优惠福利
 
-点击直达：<a href="http://qiangwaikan.com/go/panda" target="_blank">>> 2折优惠，最低1.99美元/月，双11特惠！！</a>
+点击此链接获取优惠：<a href="http://qiangwaikan.com/go/panda" target="_blank">>> 每月1.99美元</a>
 
 - 速度表现优秀
 
-用同样的<a href="https://www.youtube.com/watch?v=Bey4XXJAqS8&t=486s" target="_blank">youtube的4k画质</a>进行测试，最高可以支持1440P画质播放，就这个价格来说表现非常优秀了。
-
-![PandaVPN-speed](/image/panda-speed.jpg)
+最高可以支持1440P画质播放，就这个价格来说表现非常优秀了。
 
 - 银行级的虚拟网络安全保护
 
@@ -70,17 +92,15 @@ PandaVPN相比其他几家来说要小众一些，所以价格也要便宜些，
 
 ![PureVPN](/image/pure.png)
 
-很多人说PureVPN不能翻墙，但我在这里要为PureVPN正名，网络速度、稳定性以及综合实力目前来说仅次于ExpressVPN，价格方面相对ExpressVPN便宜一些，但是购买安装流程稍微复杂些，需要英语过关。
+很多人说PureVPN不能翻墙，但我在这里要为PureVPN正名，不过购买安装流程稍微复杂些，需要英语过关。
 
 - 优惠福利
 
-点击直达：<a href="http://qiangwaikan.com/go/pure" target="_blank">>> 1.7折优惠，最低1.92美元/月</a>
+点击此链接获取优惠：<a href="http://qiangwaikan.com/go/pure" target="_blank">>> 每月1.92美元</a>
 
 - 速度非常快
 
-经过测试，发现速度稍稍低于ExpressVPN，但是观看4K视频依然流畅
-
-![PureVPN-speed](/image/pure-speed.jpg)
+速度支持4K播放，并且建立连接速度快，支持自动重连机制。
 
 - 隐私保护
 
@@ -98,11 +118,11 @@ PureVPN同样在全球70多个国家都配备了VPN服务器，拥有超过20000
 
 ![Surfshark](/image/surfshark.png)
 
-中文支持友好，不限制设备数量，速度表现一般，适合家庭用户使用，不建议个人使用
+更新：Surfshark最近不能翻墙了，不建议购买
 
 - 优惠福利
 
-点击直达：<a href="http://qiangwaikan.com/go/surfshark" target="_blank">>> 1.7折优惠，最低1.99美元/月</a>
+点击此链接获取优惠：<a href="http://qiangwaikan.com/go/surfshark" target="_blank">>> 每月1.99美元</a>
 
 - 注重中国市场
 
@@ -119,28 +139,6 @@ PureVPN同样在全球70多个国家都配备了VPN服务器，拥有超过20000
 - 7*24小时技术支持
 
 在使用过程中如果遇到问题，可以联系他们的技术团队，全天候在线。
-
-### <a href="http://qiangwaikan.com/go/nord" target="_blank">>> NordVPN</a>
-
-![NordVPN](/image/nord.png)
-
-NordVPN之前在中国的速度表现还算不错，但是最近翻墙效果非常差，不建议使用
-
-- 优惠福利
-
-点击直达：<a href="http://qiangwaikan.com/go/nord" target="_blank">>> 3折优惠，最低3.49美元/月</a>
-
-- 访问安全
-
-NordVPN拥有军用级别的加密技术，就算在公共场合，使用[wifi](https://zh.wikipedia.org/zh/Wi-Fi)等情况下，都能有效的保护网络浏览记录的隐私性，可以说是最安全的VPN了。
-
-- 保护所有设备
-
-NordVPN支持几乎所有设备，能允许多达6台设备同时在线，这个是非常良心了，很多VPN商家都只支持单点登陆。更贴心的是，连[Chrome](https://www.google.com/intl/zh-CN/chrome/)的网页代理扩展都提供了。NordVPN还具有严格的无日志政策，自动Kill Switch，[DNS泄露](https://zhuanlan.zhihu.com/p/47095852)防护，Onion Over VPN等功能。
-
-- 全球服务器支持
-
-NordVPN在60个国家和地区拥有5700多个服务器。
 
 ## 相关使用问题
 
