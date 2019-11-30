@@ -6,7 +6,7 @@
 
 ## 几个好用的翻墙软件VPN推荐，国内实测
 
-### [>> ExpressVPN](https://www.linkev.com/?a_fid=vpnfast1)（强烈推荐）
+### <a href="https://www.linkev.com/?a_fid=vpnfast1" target="_blank">>> ExpressVPN</a>（强烈推荐）
 
 ![ExpressVPN](/image/express.png)
 
@@ -28,7 +28,7 @@ ExpressVPN可以说的上是业界的领导者了，凭借其出色的技术能�
 
 30之内如果你觉得ExpressVPN不好用，可以无条件退款，这点确实是大企业风范。
 
-### [>> NordVPN](http://go.nordvpn.net/aff_c?offer_id=15&aff_id=32326&url_id=902)
+### <a href="http://go.nordvpn.net/aff_c?offer_id=15&aff_id=32326&url_id=902" target="_blank">>> NordVPN</a>
 
 ![NordVPN](/image/nord.png)
 
@@ -46,7 +46,7 @@ NordVPN支持几乎所有设备，能允许多达6台设备同时在线，这个
 
 大家都知道，影响VPN访问速度最大因素，就是地理位置。NordVPN在60个国家和地区拥有5700多个服务器，在看视频或者下载文件时候表现不错。
 
-### [>> Surfshark](https://get.surfshark.net/aff_c?offer_id=38&aff_id=2236)
+### <a href="https://get.surfshark.net/aff_c?offer_id=38&aff_id=2236" target="_blank">>> Surfshark</a>
 
 ![Surfshark](/image/surfshark.png)
 
@@ -68,7 +68,7 @@ Surfshark中文支持友好，不限制设备数量，这算是非常大的一�
 
 在使用过程中如果遇到问题，可以联系他们的技术团队，全天候在线。
 
-### [>> PureVPN](https://billing.purevpn.com/aff.php?aff=40286)
+### <a href="https://billing.purevpn.com/aff.php?aff=40286" target="_blank">>> PureVPN</a>
 
 ![PureVPN](/image/pure.png)
 
