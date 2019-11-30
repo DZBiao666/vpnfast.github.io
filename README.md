@@ -6,7 +6,7 @@
 
 ## 几个好用的翻墙软件VPN推荐，国内实测
 
-### [>> ExpressVPN](http://qiangwaikan.com/go/express)（强烈推荐）
+### [>> ExpressVPN](https://www.linkev.com/?a_fid=vpnfast1)（强烈推荐）
 
 ![ExpressVPN](/image/express.png)
 
@@ -28,7 +28,7 @@ ExpressVPN可以说的上是业界的领导者了，凭借其出色的技术能�
 
 30之内如果你觉得ExpressVPN不好用，可以无条件退款，这点确实是大企业风范。
 
-### [>> NordVPN](http://qiangwaikan.com/go/nord)
+### [>> NordVPN](http://go.nordvpn.net/aff_c?offer_id=15&aff_id=32326&url_id=902)
 
 ![NordVPN](/image/nord.png)
 
@@ -46,7 +46,7 @@ NordVPN支持几乎所有设备，能允许多达6台设备同时在线，这个
 
 大家都知道，影响VPN访问速度最大因素，就是地理位置。NordVPN在60个国家和地区拥有5700多个服务器，在看视频或者下载文件时候表现不错。
 
-### [>> Surfshark](http://qiangwaikan.com/go/surfshark)
+### [>> Surfshark](https://get.surfshark.net/aff_c?offer_id=38&aff_id=2236)
 
 ![Surfshark](/image/surfshark.png)
 
@@ -68,7 +68,7 @@ Surfshark中文支持友好，不限制设备数量，这算是非常大的一�
 
 在使用过程中如果遇到问题，可以联系他们的技术团队，全天候在线。
 
-### [>> PureVPN](http://qiangwaikan.com/go/pure)
+### [>> PureVPN](https://billing.purevpn.com/aff.php?aff=40286)
 
 ![PureVPN](/image/pure.png)
 
@@ -86,11 +86,9 @@ PureVPN同样在全球70多个国家都配备了VPN服务器，拥有超过20000
 
 墙的主要检测手段就是根据流量指纹来判断，他们独有的加密协议，可以最大限度的绕开国内墙的检测。
 
-### [>> PandaVPN](http://qiangwaikan.com/go/panda)
+### [>> PandaVPN](https://www.pandabear.pw/purchase?status=register&invitationCode=ZSTQIQR6Pi8az45wuvxsqg%3D%3D)
 
 ![PandaVPN](/image/panda.png)
-
-更新：PandaVPN最近节点挂的比较多，请尽量选择以上几家。
 
 PandaVPN相比其他几家来说要小众一些，所以价格也要便宜些，但是最近速度表现非常出色，性价比非常高，预算有限的同学可以下手了。
 

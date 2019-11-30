@@ -8,7 +8,7 @@ Nowadays more and more VPNs are blocked, and there are not many VPNs that can be
 
 ## 4 stable and easy to use VPN recommendation
 
-### [>> ExpressVPN](http://qiangwaikan.com/go/express) (strongly recommended)
+### [>> ExpressVPN](https://www.linkev.com/?a_fid=vpnfast1) (strongly recommended)
 
 ![ExpressVPN](/image/express.png)
 
@@ -30,7 +30,7 @@ Watching [youtube](https://www.youtube.com/) 1080P is stress free.
 
 If you feel that ExpressVPN is not working well within 30, you can unconditionally refund it. This is indeed a big business style.
 
-### [>> PandaVPN](http://qiangwaikan.com/go/panda)
+### [>> PandaVPN](https://www.pandabear.pw/purchase?status=register&invitationCode=ZSTQIQR6Pi8az45wuvxsqg%3D%3D)
 
 ![PandaVPN](/image/panda.png)
 
@@ -52,7 +52,7 @@ If you encounter any problems during use, you can contact the technician to solv
 
 Although it is not like the refund guarantee within 30 days of ExpressVPN, if there is a problem, it will be discovered within 7 days.
 
-### [>> PureVPN](http://qiangwaikan.com/go/pure)
+### [>> PureVPN](https://billing.purevpn.com/aff.php?aff=40286)
 
 ![PureVPN](/image/pure.png)
 
@@ -70,7 +70,7 @@ PureVPN is also equipped with VPN servers in more than 70 countries around the w
 
 The main detection method of the wall is to judge according to the flow fingerprint, their unique encryption protocol can circumvent the detection of the domestic wall to the utmost extent.
 
-### [>> Surfshark](http://qiangwaikan.com/go/surfshark)
+### [>> Surfshark](https://get.surfshark.net/aff_c?offer_id=38&aff_id=2236)
 
 ![Surfshark](/image/surfshark.png)
 
@@ -92,7 +92,7 @@ In a complex network connection, the unexpected disconnection of the network is 
 
 If you encounter problems during use, you can contact their technical team and go online 24/7.
 
-### [>> NordVPN](http://qiangwaikan.com/go/nord)
+### [>> NordVPN](http://go.nordvpn.net/aff_c?offer_id=15&aff_id=32326&url_id=902)
 
 ![NordVPN](/image/nord.png)
 
