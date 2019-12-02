@@ -68,29 +68,23 @@ PandaVPN相比其他几家来说要小众一些，所以价格也要便宜些，
 
 虽然不像ExpressVPN的30天内退款保证，但是如果有问题的话，基本上使用7天内就能发现了。
 
-### <a href="http://go.nordvpn.net/aff_c?offer_id=15&aff_id=32326&url_id=902" target="_blank">>> NordVPN</a>
+### [>> VyprVPN](https://www.vyprvpn.com/zh/refer/china?offer_id=235&aff_id=5234)（安卓翻墙推荐）
 
-### [>> VyprVPN](/go/vypr)
-
-VyprVPN中国用户量很多，非常注重中国市场，所以中文支持很好
-
-优惠直达：» 2.5折优惠，最低3.75美元/月
+VyprVPN非常注重中国市场，在中国拥有大量用户，变色龙协议专门针对防火长城设计
 
 - 注重中国市场
 
-独有的变色龙协议，拥有众多的中国用户
+VyprVPN对中国用户的重视，甚至有双十一的优惠活动，可以通过中文和在线客服联系，翻墙专用变色龙协议非常不错。
 
-- 中文支持
+- 高级加密
 
-通过VyprVPN中文官网就能看出来，VyprVPN对中国用户的重视，可以通过中文和在线客服联系。
-
-- 广告过滤
-
-除了基本的隐私保护之外，还提供了钓鱼网站和广告过滤功能，使得上网更加清爽
+试用目前顶级的工业级AES 256位加密方式，并提供DNS保护。
 
 - 30天退款保证
 
-如果购买之后发现使用不佳，可以联系客服，30天内退款。可以在购买页面选择中文页面。
+VyprVPN同样支持30天退款保证，而且由于中文支持友好，如果觉得不好用，退款会更加方便。
+
+### <a href="http://go.nordvpn.net/aff_c?offer_id=15&aff_id=32326&url_id=902" target="_blank">>> NordVPN</a>
 
 ![NordVPN](/image/nord.png)
 
