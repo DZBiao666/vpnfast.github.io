@@ -68,7 +68,7 @@ PandaVPN相比其他几家来说要小众一些，所以价格也要便宜些，
 
 虽然不像ExpressVPN的30天内退款保证，但是如果有问题的话，基本上使用7天内就能发现了。
 
-### [>> VyprVPN](https://www.vyprvpn.com/zh/refer/china?offer_id=235&aff_id=5234)（安卓翻墙推荐）
+### <a href="https://www.vyprvpn.com/zh/refer/china?offer_id=235&aff_id=5234" target="_blank">>> VyprVPN</a>（安卓翻墙推荐）
 
 ![VyprVPN](/image/vypr.jpg)
 
