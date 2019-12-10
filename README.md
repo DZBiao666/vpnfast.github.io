@@ -28,7 +28,7 @@ ExpressVPN可以说的上是业界的领导者了，凭借其出色的技术能�
 
 30之内如果你觉得ExpressVPN不好用，可以无条件退款，这点确实是大企业风范。
 
-### <a href="https://www.purevpn.com/hk/special-china?aff=40286&chan=cheapchina" target="_blank">>> PureVPN</a>
+### <a href="https://billing.purevpn.com/aff.php?aff=40286" target="_blank">>> PureVPN</a>
 
 ![PureVPN](/image/pure.png)
 
