@@ -1,10 +1,10 @@
-# The best working VPN for China: Still Working in December 2019
+# The best working VPN for China: Still Working in December 2020
 
-![2019 can also use VPN software, Best VPN for China, VPN leaderboard, ExpressVPN how, know recommended, software, VPN recommended](/image/wall.jpg "vpn")
+![2020 can also use VPN software, Best VPN for China, VPN leaderboard, ExpressVPN how, know recommended, software, VPN recommended](/image/wall.jpg "vpn")
 
 [点击这里访问中文页面](/)
 
-Nowadays more and more VPNs are blocked, and there are not many VPNs that can be used in China. Therefore, we have measured several first-line VPN merchants. According to the actual performance of each indicator, we recommend several stable ones in 2019 China. The VPN is used to reduce the risk of pits in the process of finding a VPN, and finally the methods of SSR and V2ray. Since each VPN may be blocked, this article will be updated regularly to recommend VPNs that are currently available in China.
+Nowadays more and more VPNs are blocked, and there are not many VPNs that can be used in China. Therefore, we have measured several first-line VPN merchants. According to the actual performance of each indicator, we recommend several stable ones in 2020 China. The VPN is used to reduce the risk of pits in the process of finding a VPN, and finally the methods of SSR and V2ray. Since each VPN may be blocked, this article will be updated regularly to recommend VPNs that are currently available in China.
 
 ## 4 stable and easy to use VPN recommendation
 
@@ -138,7 +138,7 @@ Before choosing a VPN, it is necessary to look at whether it supports Android, i
 
 ### Other wall posture
 
-In fact, there are other postures to turn over the wall. The principle is the same. You only need to have a server in a foreign country. You can also buy a foreign VPS to build it. Now the mainstream is to install Shadowsocks or V2Ray. The best location for VPS is to choose US West. It is relatively stable, and the VPS of [Vultr](https://www.vultr.com/?ref=8148224) is recommended, and the line is stable and moderately priced. [Shadowsocks build tutorial](https://github.com/233boy/ss/wiki/Shadowsocks%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B) There is a detailed construction process, [V2Ray](https://www.v2ray.com/) is also relatively hot recently, similar to Shadowsocks The construction is not complicated, the official website provides a detailed construction process, and also provides client software. Of course, it is not recommended to buy some paid Shadowsocks. After all, Shadowsocks and its upgraded SSR code are open source and easy to crack. On March 25, 2019, the patent application of V2ray traffic identification method based on long-term and short-term memory network submitted by Beijing Institute of Technology is under review. Once passed, V2ray will be invalidated.
+In fact, there are other postures to turn over the wall. The principle is the same. You only need to have a server in a foreign country. You can also buy a foreign VPS to build it. Now the mainstream is to install Shadowsocks or V2Ray. The best location for VPS is to choose US West. It is relatively stable, and the VPS of [Vultr](https://www.vultr.com/?ref=8148224) is recommended, and the line is stable and moderately priced. [Shadowsocks build tutorial](https://github.com/233boy/ss/wiki/Shadowsocks%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B) There is a detailed construction process, [V2Ray](https://www.v2ray.com/) is also relatively hot recently, similar to Shadowsocks The construction is not complicated, the official website provides a detailed construction process, and also provides client software. Of course, it is not recommended to buy some paid Shadowsocks. After all, Shadowsocks and its upgraded SSR code are open source and easy to crack. On March 25, 2020, the patent application of V2ray traffic identification method based on long-term and short-term memory network submitted by Beijing Institute of Technology is under review. Once passed, V2ray will be invalidated.
 
 ## Some questions about VPN
 
