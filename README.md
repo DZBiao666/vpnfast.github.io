@@ -22,7 +22,7 @@ ExpressVPN可以说的上是业界的领导者了，凭借其出色的技术能�
 
 - 中国大陆速度最快
 
-看[youtube](https://www.youtube.com/)的1080P毫无压力。
+看<a href="https://www.youtube.com/" target="_blank">youtube</a>的1080P毫无压力。
 
 - 30天退款承诺
 
@@ -40,7 +40,7 @@ PureVPN拥有多种加密协议，提供安全DNS机制以及其他的隐私保�
 
 - 全球可访问
 
-PureVPN同样在全球70多个国家都配备了VPN服务器，拥有超过200000个IP地址，突破了音视频访问的区域限制，尤其是[Netflix](https://www.netflix.com/us-zh/)。不管身在何处，都能稳定快速的访问资源。
+PureVPN同样在全球70多个国家都配备了VPN服务器，拥有超过200000个IP地址，突破了音视频访问的区域限制，尤其是<a href="https://www.netflix.com/us-zh/" target="_blank">Netflix</a>。不管身在何处，都能稳定快速的访问资源。
 
 - 对抗审查制度
 
@@ -87,29 +87,11 @@ VyprVPN对中国用户的重视，甚至有双十一的优惠活动，可以通�
 
 VyprVPN同样支持30天退款保证，而且由于中文支持友好，如果觉得不好用，退款会更加方便。
 
-### <a href="http://go.nordvpn.net/aff_c?offer_id=15&aff_id=32326&url_id=902" target="_blank">>> NordVPN</a>
-
-![NordVPN](/image/nord.png)
-
-NordVPN在中国的速度表现也非常不错，拥有军用级别的加密技术，目前三年优惠活动也比较划算
-
-- 访问安全
-
-NordVPN拥有军用级别的加密技术，就算在公共场合，使用[wifi](https://zh.wikipedia.org/zh/Wi-Fi)等情况下，都能有效的保护网络浏览记录的隐私性，可以说是最安全的VPN了。
-
-- 保护所有设备
-
-NordVPN支持几乎所有设备，能允许多达6台设备同时在线，这个是非常良心了，很多VPN商家都只支持单点登陆。更贴心的是，连[Chrome](https://www.google.com/intl/zh-CN/chrome/)的网页代理扩展都提供了。NordVPN还具有严格的无日志政策，自动Kill Switch，[DNS泄露](https://zhuanlan.zhihu.com/p/47095852)防护，Onion Over VPN等功能。
-
-- 全球服务器支持
-
-大家都知道，影响VPN访问速度最大因素，就是地理位置。NordVPN在60个国家和地区拥有5700多个服务器，在看视频或者下载文件时候表现不错。
-
 ### <a href="https://get.surfshark.net/aff_c?offer_id=38&aff_id=2236" target="_blank">>> Surfshark</a>
 
 ![Surfshark](/image/surfshark.png)
 
-Surfshark中文支持友好，不限制设备数量，这算是非常大的一个特点了，一般VPN商家都会限制设备数量，但目前仅ios翻墙可用
+Surfshark中文支持友好，不限制设备数量，这算是非常大的一个特点了，一般VPN商家都会限制设备数量，并且ios翻墙连接快速
 
 - 注重中国市场
 
@@ -127,6 +109,24 @@ Surfshark中文支持友好，不限制设备数量，这算是非常大的一�
 
 在使用过程中如果遇到问题，可以联系他们的技术团队，全天候在线。
 
+### <a href="http://go.nordvpn.net/aff_c?offer_id=15&aff_id=32326&url_id=902" target="_blank">>> NordVPN</a>
+
+![NordVPN](/image/nord.png)
+
+NordVPN之前在中国的速度表现也非常不错，拥有军用级别的加密技术，目前三年优惠活动也比较划算。但目前翻墙不是很稳定，建议选择上面几家
+
+- 访问安全
+
+NordVPN拥有军用级别的加密技术，就算在公共场合，使用<a href="https://zh.wikipedia.org/zh/Wi-Fi" target="_blank">wifi</a>等情况下，都能有效的保护网络浏览记录的隐私性，可以说是最安全的VPN了。
+
+- 保护所有设备
+
+NordVPN支持几乎所有设备，能允许多达6台设备同时在线，这个是非常良心了，很多VPN商家都只支持单点登陆。更贴心的是，连<a href="https://www.google.com/intl/zh-CN/chrome/" target="_blank">Chrome</a>的网页代理扩展都提供了。NordVPN还具有严格的无日志政策，自动Kill Switch，<a href="https://zhuanlan.zhihu.com/p/47095852" target="_blank">DNS泄露</a>防护，Onion Over VPN等功能。
+
+- 全球服务器支持
+
+大家都知道，影响VPN访问速度最大因素，就是地理位置。NordVPN在60个国家和地区拥有5700多个服务器，在看视频或者下载文件时候表现不错。
+
 ## 翻墙软件VPN推荐的标准
 
 ![VPN推荐](/image/standard.jpg)
@@ -139,7 +139,7 @@ Surfshark中文支持友好，不限制设备数量，这算是非常大的一�
 
 ### 推荐付费的一线VPN
 
-免费VPN听起来很有诱惑力，但是真正使用起来，确实诸多麻烦。毕竟羊毛出在羊身上，人家也是要赚钱的。那么这些所谓的免费VPN就会通过其他途径来赚钱，比如满屏的弹窗广告，售卖个人信息等行为。除此之外，大部分免费VPN基本上处于不能用的状态，网络延迟到令人发指，比如[蓝灯](https://getlantern.org/zh_CN/index.html)的免费版。并且如果想要稳定的服务的话，还是需要购买他的付费版本，免费只是一种营销手段。一线VPN通常会使用现有开源协议进行二次开发，会投入开发经费在研发新的翻墙技术上面，尽可能绕过墙的检测，而且一线VPN商家通常在全球部署了众多的服务器，如果碰巧某个地区的服务器IP被封锁了，也可以快速切换到其他地区的服务器，不会影响用户的使用。而小商家通常直接使用市面上的开源协议，直接安装之后就开始售卖，而这种开源协议早就列入了墙的黑名单之中，并且这些小商家很可能只租用了某个几台服务器，一旦该IP段被封，所有用户都会受到影响。
+免费VPN听起来很有诱惑力，但是真正使用起来，确实诸多麻烦。毕竟羊毛出在羊身上，人家也是要赚钱的。那么这些所谓的免费VPN就会通过其他途径来赚钱，比如满屏的弹窗广告，售卖个人信息等行为。除此之外，大部分免费VPN基本上处于不能用的状态，网络延迟到令人发指，比如<a href="https://getlantern.org/zh_CN/index.html" target="_blank">蓝灯</a>的免费版。并且如果想要稳定的服务的话，还是需要购买他的付费版本，免费只是一种营销手段。一线VPN通常会使用现有开源协议进行二次开发，会投入开发经费在研发新的翻墙技术上面，尽可能绕过墙的检测，而且一线VPN商家通常在全球部署了众多的服务器，如果碰巧某个地区的服务器IP被封锁了，也可以快速切换到其他地区的服务器，不会影响用户的使用。而小商家通常直接使用市面上的开源协议，直接安装之后就开始售卖，而这种开源协议早就列入了墙的黑名单之中，并且这些小商家很可能只租用了某个几台服务器，一旦该IP段被封，所有用户都会受到影响。
 
 ### 推荐国外的VPN商家
 
@@ -155,7 +155,7 @@ Surfshark中文支持友好，不限制设备数量，这算是非常大的一�
 
 ### 其他翻墙姿势
 
-其实要翻墙也有其他姿势，原理都是一样的，只需要在国外一台服务器就行了，那么也可以自己购买国外VPS进行搭建，现在主流的是安装Shadowsocks或者V2Ray进行科学上网，VPS位置最好选择美西的比较稳定，推荐[Vultr](https://www.vultr.com/?ref=8148224)的VPS，线路稳定价格适中。[Shadowsocks搭建教程](https://github.com/233boy/ss/wiki/Shadowsocks%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B)有详细的搭建过程，[V2Ray](https://www.v2ray.com/)最近也比较火，跟Shadowsocks也差不多，搭建的话也不复杂，官网提供了详细的搭建过程，也提供了客户端软件。当然不建议购买一些付费Shadowsocks ，毕竟Shadowsocks以及它的升级版SSR代码都是开源的，很容易墙破解。2020年3月25北京理工大学提交的【基于长短期记忆网络的V2ray流量识别方法】的专利申请正在审核中，一旦通过之后，V2ray也就宣告失效。
+其实要翻墙也有其他姿势，原理都是一样的，只需要在国外一台服务器就行了，那么也可以自己购买国外VPS进行搭建，现在主流的是安装Shadowsocks或者V2Ray进行科学上网，VPS位置最好选择美西的比较稳定，推荐<a href="https://www.vultr.com/?ref=8148224" target="_blank">Vultr</a>的VPS，线路稳定价格适中。<a href="https://github.com/233boy/ss/wiki/Shadowsocks%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B" target="_blank">Shadowsocks搭建教程</a>有详细的搭建过程，<a href="https://www.v2ray.com/" target="_blank">V2Ray</a>最近也比较火，跟Shadowsocks也差不多，搭建的话也不复杂，官网提供了详细的搭建过程，也提供了客户端软件。当然不建议购买一些付费Shadowsocks ，毕竟Shadowsocks以及它的升级版SSR代码都是开源的，很容易墙破解。2020年3月25北京理工大学提交的【基于长短期记忆网络的V2ray流量识别方法】的专利申请正在审核中，一旦通过之后，V2ray也就宣告失效。
 
 ## 关于VPN的一些问题
 
@@ -163,11 +163,11 @@ Surfshark中文支持友好，不限制设备数量，这算是非常大的一�
 
 ### VPN的基本原理是什么？
 
-VPN是英文Virtual Private Network的缩写，翻译过来就是[虚拟专用网络](https://zh.wikipedia.org/wiki/%E8%99%9B%E6%93%AC%E7%A7%81%E4%BA%BA%E7%B6%B2%E8%B7%AF)。VPN最初的设计是为了让世界上任一两台电脑，在一个加密的通道中传输数据，只是在数据上加密了，而不是在硬件上区别开来，所以就称为虚拟。也因此成为了绕过审查的翻墙工具。VPN相比于[Shadowsocks](https://shadowsocks.org/en/index.html)来说要更加底层一些，它首先通过操作系统虚拟一张网卡，之后所以的收发数据都通过这张网卡加密。
+VPN是英文Virtual Private Network的缩写，翻译过来就是<a href="https://zh.wikipedia.org/wiki/%E8%99%9B%E6%93%AC%E7%A7%81%E4%BA%BA%E7%B6%B2%E8%B7%AF" target="_blank">虚拟专用网络</a>。VPN最初的设计是为了让世界上任一两台电脑，在一个加密的通道中传输数据，只是在数据上加密了，而不是在硬件上区别开来，所以就称为虚拟。也因此成为了绕过审查的翻墙工具。VPN相比于<a href="https://shadowsocks.org/en/index.html" target="_blank">Shadowsocks</a>来说要更加底层一些，它首先通过操作系统虚拟一张网卡，之后所以的收发数据都通过这张网卡加密。
 
 ### 什么是中国防火长城？
 
-[防火长城](https://zh.wikipedia.org/wiki/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E)GFW是英文Great Firewall的缩写，最开始是因为一名外国人写的《The Great Firewall of China》的文章而得名，又由于长城的原因，在网络上演变成了”墙“，表示访问境外的网站，如Facebook、Twitter、YouTube等被阻拦，主要通过拦截方式为1）黑名单的方式拦截域名解析，在黑名单中的域名会被解析到无效的IP地址，从而表现为改网站不可用。2）IP地址封锁，由于大部分被封锁的网站使用的是"虚拟主机"，所以一旦某个ip被封锁，其他相关联的网站也会被封。3）针对HTTP关键字过滤，中国防火长城会针对某些关键字进行过滤。其实网络审查制度不只是中国存在，其他国家也存在网络审查制度，但是仅仅用于金融洗钱、国际诈骗等犯罪行为，而防火长城的则会监控所有国际通讯，对不符合规定的传输内容进行屏蔽。域名解析服务缓存污染是防火长城常见的拦截手段，所有出口骨干路由在UDP的53端口的域名查询都会被检测，一旦所访问的域名不符合规定，防火长城就会返回错误域名解析地址。
+<a href="https://zh.wikipedia.org/wiki/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E" target="_blank">防火长城</a>GFW是英文Great Firewall的缩写，最开始是因为一名外国人写的《The Great Firewall of China》的文章而得名，又由于长城的原因，在网络上演变成了”墙“，表示访问境外的网站，如Facebook、Twitter、YouTube等被阻拦，主要通过拦截方式为1）黑名单的方式拦截域名解析，在黑名单中的域名会被解析到无效的IP地址，从而表现为改网站不可用。2）IP地址封锁，由于大部分被封锁的网站使用的是"虚拟主机"，所以一旦某个ip被封锁，其他相关联的网站也会被封。3）针对HTTP关键字过滤，中国防火长城会针对某些关键字进行过滤。其实网络审查制度不只是中国存在，其他国家也存在网络审查制度，但是仅仅用于金融洗钱、国际诈骗等犯罪行为，而防火长城的则会监控所有国际通讯，对不符合规定的传输内容进行屏蔽。域名解析服务缓存污染是防火长城常见的拦截手段，所有出口骨干路由在UDP的53端口的域名查询都会被检测，一旦所访问的域名不符合规定，防火长城就会返回错误域名解析地址。
 
 ### VPN有什么作用？
 
@@ -179,7 +179,7 @@ VPN是英文Virtual Private Network的缩写，翻译过来就是[虚拟专用�
 
 ### 使用VPN要注意什么？
 
-首先下结论，使用VPN会被处罚，但是中国国内使用VPN的用户数量是极大了，不可能全部都处罚，只能说杀鸡儆猴，比如某些[使用VPN被罚的新闻](https://www.bbc.com/zhongwen/simp/chinese-news-46823319)。当然也不是说这个处罚是随机的，而是最先处罚那些浏览了国外政治敏感网站，并且肆意传播的人。所以在使用VPN的时候一定要记住read-only，就是只读取信息，不要传播信息，文明使用VPN翻墙，切勿从事违法反动行为。
+首先下结论，使用VPN会被处罚，但是中国国内使用VPN的用户数量是极大了，不可能全部都处罚，只能说杀鸡儆猴，比如某些<a href="https://www.bbc.com/zhongwen/simp/chinese-news-46823319" target="_blank">使用VPN被罚的新闻</a>。当然也不是说这个处罚是随机的，而是最先处罚那些浏览了国外政治敏感网站，并且肆意传播的人。所以在使用VPN的时候一定要记住read-only，就是只读取信息，不要传播信息，文明使用VPN翻墙，切勿从事违法反动行为。
 
 [English page](/english) 本文会根据测评情况，定期更新排名，如果觉得内容有用的话，欢迎添加收藏
 
