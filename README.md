@@ -72,7 +72,7 @@ PandaVPN相比其他几家来说要小众一些，所以价格也相对便宜，
 
 ![Surfshark](/image/surfshark.png)
 
-Surfshark中文支持友好，不限制设备数量，这算是非常大的一个特点了，一般VPN商家都会限制设备数量，并且iOS翻墙连接快速。不过就性价比来说，我更建议你选择<a href="https://www.pandamira.xyz/r/9689528" target="_blank">PandaVPN</a>或者<a href="https://billing.purevpn.com/aff.php?aff=40286" target="_blank">PureVPN</a>
+Surfshark中文支持友好，不限制设备数量，这算是非常大的一个特点了，一般VPN商家都会限制设备数量，并且iOS翻墙连接快速。不过就稳定性来说，我更建议你选择<a href="https://www.pandamira.xyz/r/9689528" target="_blank">PandaVPN</a>或者<a href="https://billing.purevpn.com/aff.php?aff=40286" target="_blank">PureVPN</a>
 
 - 注重中国市场
 
