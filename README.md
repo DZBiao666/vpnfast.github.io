@@ -94,7 +94,7 @@ PandaVPN相比其他几家来说要小众一些，所以价格也相对便宜，
 
 ![Surfshark](/image/surfshark.png)
 
-Surfshark中文支持友好，不限制设备数量，这算是非常大的一个特点了，一般VPN商家都会限制设备数量。不过就稳定性来说，我更建议你选择<a href="https://www.vyprvpn.com/zh/refer/china?offer_id=235&aff_id=5234" target="_blank">VyprVPN</a>或者<a href="https://www.pancerra.xyz/r/9689528" target="_blank">PandaVPN</a>
+Surfshark中文支持友好，不限制设备数量，这算是非常大的一个特点了，一般VPN商家都会限制设备数量。不过就稳定性来说，我更建议你选择上面推荐的几家
 
 - 注重中国市场
 
