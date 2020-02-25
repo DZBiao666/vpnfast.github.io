@@ -28,11 +28,33 @@ ExpressVPN可以说的上是业界的领导者了，凭借其出色的技术能�
 
 30之内如果你觉得ExpressVPN不好用，可以无条件退款，这点确实是大企业风范。
 
-### 2. <a href="https://billing.purevpn.com/aff.php?aff=40286" target="_blank">PureVPN</a>
+### 2. <a href="https://www.vyprvpn.com/zh/refer/china?offer_id=235&aff_id=5234" target="_blank">VyprVPN</a>
+
+![VyprVPN](/image/vypr.jpg)
+
+VyprVPN成立于瑞士，是一家几乎和互联网同龄的公司，非常注重中国市场，在中国拥有大量用户，变色龙协议专门针对防火长城设计，拥有澳门等近距离节点，特别是iOS翻墙非常稳定，唯一的小问题是Ping值显示有问题，不过并不影响使用
+
+- 注重中国市场
+
+VyprVPN对中国用户的重视，甚至有双十一的优惠活动，VyprVPN对抗防火长城而设计的变色龙协议，翻墙效果非常出色。
+
+- 高级加密
+
+使用目前顶级的工业级AES 256位加密方式，并提供DNS保护。
+
+- 流畅观看视频
+
+VyprVPN能够流畅观看Netflix、YouTube、Hulu、HBO、BBC iPlayer等高清视频资源，并且解锁区域封锁的限制
+
+- 30天退款保证
+
+VyprVPN支持30天退款保证，如果觉得不好用，可以通过在线客服或者邮件的方式退款。
+
+### 3. <a href="https://billing.purevpn.com/aff.php?aff=40286" target="_blank">PureVPN</a>
 
 ![PureVPN](/image/pure.png)
 
-PureVPN也是一家老牌商家，网络速度、稳定性以及综合实力目前来说仅次于ExpressVPN，价格方面相对ExpressVPN便宜一些
+PureVPN也是一家在香港创立的老牌商家，常用近距离节点有台湾、香港、新加坡等。整体表现情况不错，客户端启动连接快速，中文支持一般，翻译有些瑕疵。
 
 - 隐私保护
 
@@ -46,7 +68,7 @@ PureVPN同样在全球70多个国家都配备了VPN服务器，拥有超过20000
 
 墙的主要检测手段就是根据流量指纹来判断，他们独有的加密协议，可以最大限度的绕开国内墙的检测。
 
-### 3. <a href="https://www.pancerra.xyz/r/9689528" target="_blank">PandaVPN</a>
+### 4. <a href="https://www.pancerra.xyz/r/9689528" target="_blank">PandaVPN</a>
 
 ![PandaVPN](/image/panda.png)
 
@@ -68,7 +90,7 @@ PandaVPN相比其他几家来说要小众一些，所以价格也相对便宜，
 
 虽然不像ExpressVPN的30天内退款保证，但是如果有问题的话，基本上使用7天内就能发现了。
 
-### 4. <a href="https://get.surfshark.net/aff_c?offer_id=38&aff_id=2236" target="_blank">Surfshark</a>
+### 5. <a href="https://get.surfshark.net/aff_c?offer_id=38&aff_id=2236" target="_blank">Surfshark</a>
 
 ![Surfshark](/image/surfshark.png)
 
@@ -89,24 +111,6 @@ Surfshark中文支持友好，不限制设备数量，这算是非常大的一�
 - 7*24小时技术支持
 
 在使用过程中如果遇到问题，可以联系他们的技术团队，全天候在线。
-
-### 5. <a href="https://www.vyprvpn.com/zh/refer/china?offer_id=235&aff_id=5234" target="_blank">VyprVPN</a>
-
-![VyprVPN](/image/vypr.jpg)
-
-VyprVPN非常注重中国市场，在中国拥有大量用户，变色龙协议专门针对防火长城设计，拥有澳门等近距离节点
-
-- 注重中国市场
-
-VyprVPN对中国用户的重视，甚至有双十一的优惠活动，可以通过中文和在线客服联系，翻墙专用变色龙协议非常不错。
-
-- 高级加密
-
-使用目前顶级的工业级AES 256位加密方式，并提供DNS保护。
-
-- 30天退款保证
-
-VyprVPN同样支持30天退款保证，而且由于中文支持友好，如果觉得不好用，退款会更加方便。
 
 ### 6. <a href="http://go.nordvpn.net/aff_c?offer_id=15&aff_id=32326&url_id=902" target="_blank">NordVPN</a>
 
