@@ -28,7 +28,47 @@ ExpressVPN可以说的上是业界的领导者了，凭借其出色的技术能�
 
 30之内如果你觉得ExpressVPN不好用，可以无条件退款，这点确实是大企业风范。
 
-### 2. <a href="https://www.vyprvpn.com/zh/refer/china?offer_id=235&aff_id=5234" target="_blank">VyprVPN</a>
+### 2. <a href="https://billing.purevpn.com/aff.php?aff=40286" target="_blank">PureVPN</a>
+
+![PureVPN](/image/pure.png)
+
+PureVPN也是一家在香港创立的老牌商家，常用近距离节点有台湾、香港、新加坡等。整体表现情况不错，客户端启动连接快速，性价比非常高，就速度和稳定性来说仅次于ExpressVPN。
+
+- 隐私保护
+
+PureVPN拥有多种加密协议，提供安全DNS机制以及其他的隐私保护功能。其中就有保护连接断开切换的机制，以防在连接中断之后，出现数据泄露的风险。PureVPN承诺不会记录行为日志，并且不会将数据分享给任何的第三方机构。
+
+- 全球可访问
+
+PureVPN同样在全球70多个国家都配备了VPN服务器，拥有超过200000个IP地址，突破了音视频访问的区域限制，尤其是<a href="https://www.netflix.com/us-zh/" target="_blank">Netflix</a>。不管身在何处，都能稳定快速的访问资源。
+
+- 对抗审查制度
+
+墙的主要检测手段就是根据流量指纹来判断，他们独有的加密协议，可以最大限度的绕开国内墙的检测。
+
+### 3. <a href="https://www.pancerra.xyz/r/9689528" target="_blank">PandaVPN</a>
+
+![PandaVPN](/image/panda.png)
+
+PandaVPN相比其他几家来说要小众一些，所以价格也相对便宜，但速度表现非常出色。除此之外中文支持好，操作简单方便，平时优惠活动很多
+
+- 银行级的虚拟网络安全保护
+
+不管再任何公共场合访问网络，都会受到256位银行级的加密的保护，保证个人隐私不被窥探。
+
+- 操作简单
+
+同样支持Windows，Mac，iOS，Android这些常见客户端，UI做的非常简洁大方，只需要一个开关按钮就能连接VPN。
+
+- 全球技术支持
+
+在使用过程中遇到任何问题，都可以联系技术人员解决
+
+- 7天退款保证
+
+虽然不像ExpressVPN的30天内退款保证，但是如果有问题的话，基本上使用7天内就能发现了。
+
+### 4. <a href="https://www.vyprvpn.com/zh/refer/china?offer_id=235&aff_id=5234" target="_blank">VyprVPN</a>
 
 ![VyprVPN](/image/vypr.jpg)
 
@@ -50,51 +90,11 @@ VyprVPN能够流畅观看Netflix、YouTube、Hulu、HBO、BBC iPlayer等高清�
 
 VyprVPN支持30天退款保证，如果觉得不好用，可以通过在线客服或者邮件的方式退款。
 
-### 3. <a href="https://billing.purevpn.com/aff.php?aff=40286" target="_blank">PureVPN</a>
-
-![PureVPN](/image/pure.png)
-
-PureVPN也是一家在香港创立的老牌商家，常用近距离节点有台湾、香港、新加坡等。整体表现情况不错，客户端启动连接快速，中文支持一般，翻译有些瑕疵。
-
-- 隐私保护
-
-PureVPN拥有多种加密协议，提供安全DNS机制以及其他的隐私保护功能。其中就有保护连接断开切换的机制，以防在连接中断之后，出现数据泄露的风险。PureVPN承诺不会记录行为日志，并且不会将数据分享给任何的第三方机构。
-
-- 全球可访问
-
-PureVPN同样在全球70多个国家都配备了VPN服务器，拥有超过200000个IP地址，突破了音视频访问的区域限制，尤其是<a href="https://www.netflix.com/us-zh/" target="_blank">Netflix</a>。不管身在何处，都能稳定快速的访问资源。
-
-- 对抗审查制度
-
-墙的主要检测手段就是根据流量指纹来判断，他们独有的加密协议，可以最大限度的绕开国内墙的检测。
-
-### 4. <a href="https://www.pancerra.xyz/r/9689528" target="_blank">PandaVPN</a>
-
-![PandaVPN](/image/panda.png)
-
-PandaVPN相比其他几家来说要小众一些，所以价格也相对便宜，但速度表现非常出色。除此之外中文支持好，操作简单方便，性价比非常高
-
-- 银行级的虚拟网络安全保护
-
-不管再任何公共场合访问网络，都会受到256位银行级的加密的保护，保证个人隐私不被窥探。
-
-- 操作简单
-
-同样支持Windows，Mac，iOS，Android这些常见客户端，UI做的非常简洁大方，只需要一个开关按钮就能连接VPN。
-
-- 全球技术支持
-
-在使用过程中遇到任何问题，都可以联系技术人员解决
-
-- 7天退款保证
-
-虽然不像ExpressVPN的30天内退款保证，但是如果有问题的话，基本上使用7天内就能发现了。
-
 ### 5. <a href="https://get.surfshark.net/aff_c?offer_id=38&aff_id=2236" target="_blank">Surfshark</a>
 
 ![Surfshark](/image/surfshark.png)
 
-Surfshark中文支持友好，不限制设备数量，这算是非常大的一个特点了，一般VPN商家都会限制设备数量。不过就稳定性来说，我更建议你选择上面推荐的几家
+Surfshark中文支持友好，不限制设备数量，这算是非常大的一个特点了，一般VPN商家都会限制设备数量。不过就稳定性和性价比来说，我更建议你选择同价位的<a href="https://billing.purevpn.com/aff.php?aff=40286" target="_blank">PureVPN</a>或者<a href="https://www.pancerra.xyz/r/9689528" target="_blank">Panda VPN</a>
 
 - 注重中国市场
 
