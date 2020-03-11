@@ -6,7 +6,7 @@
 
 ## 几个好用的翻墙软件VPN推荐，国内实测
 
-### 1. <a href="https://www.linkev.com/?a_fid=vpnfast1" target="_blank">ExpressVPN</a>（强烈推荐）
+### 1. <a href="https://rrjccyc.com/zh-cn/?a_fid=vpnfast1&offer=3monthsfree" target="_blank">ExpressVPN</a>（强烈推荐）
 
 ![ExpressVPN](/image/express.png)
 
