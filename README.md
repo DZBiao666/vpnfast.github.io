@@ -28,11 +28,33 @@ ExpressVPN可以说的上是业界的领导者了，凭借其出色的技术能�
 
 30之内如果你觉得ExpressVPN不好用，可以无条件退款，这点确实是大企业风范。
 
-### 2. <a href="https://www.vyprvpn.com/zh/refer/china?offer_id=235&aff_id=5234" target="_blank">VyprVPN</a>
+### 2. <a href="http://go.nordvpn.net/aff_c?offer_id=15&aff_id=32326&url_id=902" target="_blank">NordVPN</a>
+
+![NordVPN](/image/nord.png)
+
+NordVPN之前在中国的速度表现也非常不错，拥有军用级别的加密技术，以及高级混淆协议，可以绕过防火长城。目前三年优惠活动也比较划算，并且在此基础上，增加了随机赠送1个月~3年的抽奖活动。
+
+- 访问安全
+
+NordVPN拥有军用级别的加密技术，就算在公共场合，使用<a href="https://zh.wikipedia.org/zh/Wi-Fi" target="_blank">wifi</a>等情况下，都能有效的保护网络浏览记录的隐私性，可以说是最安全的VPN了。
+
+- 保护所有设备
+
+NordVPN支持几乎所有设备，能允许多达6台设备同时在线，这个是非常良心了，很多VPN商家都只支持单点登陆。更贴心的是，连<a href="https://www.google.com/intl/zh-CN/chrome/" target="_blank">Chrome</a>的网页代理扩展都提供了。NordVPN还具有严格的无日志政策，自动Kill Switch，<a href="https://zhuanlan.zhihu.com/p/47095852" target="_blank">DNS泄露</a>防护，Onion Over VPN等功能。
+
+- 全球服务器支持
+
+大家都知道，影响VPN访问速度最大因素，就是地理位置。NordVPN在60个国家和地区拥有5700多个服务器，在看视频或者下载文件时候表现非常不错。
+
+- 30退款保证
+
+NordVPN是国外知名商家，如果不能使用，也完全不用担心退款问题。
+
+### 3. <a href="https://www.vyprvpn.com/zh/refer/china?offer_id=235&aff_id=5234" target="_blank">VyprVPN</a>
 
 ![VyprVPN](/image/vypr.jpg)
 
-VyprVPN成立于瑞士，是一家几乎和互联网同龄的公司，非常注重中国市场，在中国拥有大量用户，变色龙协议专门针对防火长城设计，拥有澳门等近距离节点，特别是iOS翻墙非常稳定，唯一的小问题是Ping值显示有问题，不过并不影响使用
+VyprVPN成立于瑞士，是一家几乎和互联网同龄的公司，非常注重中国市场，在中国拥有大量用户，变色龙协议专门针对防火长城设计，拥有澳门等近距离节点，特别是iOS翻墙非常稳定，唯一的小问题是Ping值显示有问题，但并不影响使用。VyprVPN目前不支持支付宝，据说正在积极开发中
 
 - 注重中国市场
 
@@ -50,29 +72,11 @@ VyprVPN能够流畅观看Netflix、YouTube、Hulu、HBO、BBC iPlayer等高清�
 
 VyprVPN支持30天退款保证，如果觉得不好用，可以通过在线客服或者邮件的方式退款。
 
-### 3. <a href="https://billing.purevpn.com/aff.php?aff=40286" target="_blank">PureVPN</a>
-
-![PureVPN](/image/pure.png)
-
-PureVPN也是一家在香港创立的老牌商家，常用近距离节点有台湾、香港、新加坡等。整体表现情况不错，客户端启动连接快速，性价比非常高。支持5种设备同时在线，你可以与朋友在不同设备上共用此账号。
-
-- 隐私保护
-
-PureVPN拥有多种加密协议，提供安全DNS机制以及其他的隐私保护功能。其中就有保护连接断开切换的机制，以防在连接中断之后，出现数据泄露的风险。PureVPN承诺不会记录行为日志，并且不会将数据分享给任何的第三方机构。
-
-- 全球可访问
-
-PureVPN同样在全球70多个国家都配备了VPN服务器，拥有超过200000个IP地址，突破了音视频访问的区域限制，尤其是<a href="https://www.netflix.com/us-zh/" target="_blank">Netflix</a>。不管身在何处，都能稳定快速的访问资源。
-
-- 对抗审查制度
-
-墙的主要检测手段就是根据流量指纹来判断，他们独有的加密协议，可以最大限度的绕开国内墙的检测。
-
 ### 4. <a href="https://www.pancerra.xyz/r/9689528" target="_blank">PandaVPN</a>
 
 ![PandaVPN](/image/panda.png)
 
-Panda VPN相比其他几家来说要小众一些，所以价格也相对便宜，但速度表现非常出色。除此之外中文支持好，操作简单方便，平时优惠活动很多
+Panda VPN相比其他几家来说要小众一些，所以价格也相对便宜，但速度表现非常出色。除此之外中文支持好，操作简单方便，平时优惠活动很多，是一款便宜好用的VPN
 
 - 银行级的虚拟网络安全保护
 
@@ -90,7 +94,29 @@ Panda VPN相比其他几家来说要小众一些，所以价格也相对便宜�
 
 虽然不像ExpressVPN的30天内退款保证，但是如果有问题的话，基本上使用7天内就能发现了。
 
-### 5. <a href="https://get.surfshark.net/aff_c?offer_id=38&aff_id=2236" target="_blank">Surfshark</a>
+### 5. <a href="https://billing.purevpn.com/aff.php?aff=40286" target="_blank">PureVPN</a>
+
+![PureVPN](/image/pure.png)
+
+PureVPN也是一家在香港创立的老牌商家，常用近距离节点有台湾、香港、新加坡等。整体表现情况不错，客户端启动连接快速。支持5种设备同时在线，你可以与朋友在不同设备上共用此账号。
+
+- 隐私保护
+
+PureVPN拥有多种加密协议，提供安全DNS机制以及其他的隐私保护功能。其中就有保护连接断开切换的机制，以防在连接中断之后，出现数据泄露的风险。PureVPN承诺不会记录行为日志，并且不会将数据分享给任何的第三方机构。
+
+- 全球可访问
+
+PureVPN同样在全球70多个国家都配备了VPN服务器，拥有超过200000个IP地址，突破了音视频访问的区域限制，尤其是<a href="https://www.netflix.com/us-zh/" target="_blank">Netflix</a>。不管身在何处，都能稳定快速的访问资源。
+
+- 对抗审查制度
+
+墙的主要检测手段就是根据流量指纹来判断，他们独有的加密协议，可以最大限度的绕开国内墙的检测。
+
+- 31天退款保证
+
+31天，比30天多一天，比32天少一天
+
+### 6. <a href="https://get.surfshark.net/aff_c?offer_id=38&aff_id=2236" target="_blank">Surfshark</a>
 
 ![Surfshark](/image/surfshark.png)
 
@@ -112,23 +138,9 @@ Surfshark中文支持友好，不限制设备数量，这算是非常大的一�
 
 在使用过程中如果遇到问题，可以联系他们的技术团队，全天候在线。
 
-### 6. <a href="http://go.nordvpn.net/aff_c?offer_id=15&aff_id=32326&url_id=902" target="_blank">NordVPN</a>
+- 退款保证
 
-![NordVPN](/image/nord.png)
-
-NordVPN之前在中国的速度表现也非常不错，拥有军用级别的加密技术，目前三年优惠活动也比较划算。但目前翻墙不是很稳定，建议选择上面几家
-
-- 访问安全
-
-NordVPN拥有军用级别的加密技术，就算在公共场合，使用<a href="https://zh.wikipedia.org/zh/Wi-Fi" target="_blank">wifi</a>等情况下，都能有效的保护网络浏览记录的隐私性，可以说是最安全的VPN了。
-
-- 保护所有设备
-
-NordVPN支持几乎所有设备，能允许多达6台设备同时在线，这个是非常良心了，很多VPN商家都只支持单点登陆。更贴心的是，连<a href="https://www.google.com/intl/zh-CN/chrome/" target="_blank">Chrome</a>的网页代理扩展都提供了。NordVPN还具有严格的无日志政策，自动Kill Switch，<a href="https://zhuanlan.zhihu.com/p/47095852" target="_blank">DNS泄露</a>防护，Onion Over VPN等功能。
-
-- 全球服务器支持
-
-大家都知道，影响VPN访问速度最大因素，就是地理位置。NordVPN在60个国家和地区拥有5700多个服务器，在看视频或者下载文件时候表现不错。
+业界标准，30天退款保证。
 
 ## 翻墙软件VPN推荐的标准
 
