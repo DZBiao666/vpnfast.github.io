@@ -1,4 +1,4 @@
-# 2020中国最好用的翻墙软件VPN推荐，翻墙必备VPN，5月更新
+# 2020中国最好用的翻墙软件VPN推荐，翻墙必备VPN，6月更新
 
 ![好用的VPN，国内VPN，中国VPN，VPN中国，翻墙软件，VPN推荐](/image/wall.jpg "vpn")
 
@@ -50,29 +50,7 @@ NordVPN支持几乎所有设备，能允许多达6台设备同时在线，这个
 
 NordVPN是国外知名商家，如果不能使用，也完全不用担心退款问题。
 
-### 3. <a href="https://www.vyprvpn.com/zh/refer/china?offer_id=235&aff_id=5234" target="_blank">VyprVPN</a>
-
-![VyprVPN](/image/vypr.jpg)
-
-VyprVPN成立于瑞士，是一家几乎和互联网同龄的公司，非常注重中国市场，在中国拥有大量用户，变色龙协议专门针对防火长城设计，拥有澳门等近距离节点，特别是iOS翻墙非常稳定，唯一的小问题是Ping值显示有问题，但并不影响使用。VyprVPN目前不支持支付宝，据说正在积极开发中
-
-- 注重中国市场
-
-VyprVPN对中国用户的重视，甚至有双十一的优惠活动，VyprVPN对抗防火长城而设计的变色龙协议，翻墙效果非常出色。
-
-- 高级加密
-
-使用目前顶级的工业级AES 256位加密方式，并提供DNS保护。
-
-- 流畅观看视频
-
-VyprVPN能够流畅观看Netflix、YouTube、Hulu、HBO、BBC iPlayer等高清视频资源，并且解锁区域封锁的限制
-
-- 30天退款保证
-
-VyprVPN支持30天退款保证，如果觉得不好用，可以通过在线客服或者邮件的方式退款。
-
-### 4. <a href="https://www.pancerra.xyz/r/9689528" target="_blank">PandaVPN</a>
+### 3. <a href="https://www.pancerra.xyz/r/9689528" target="_blank">PandaVPN</a>
 
 ![PandaVPN](/image/panda.png)
 
@@ -93,6 +71,28 @@ Panda VPN相比其他几家来说要小众一些，所以价格也相对便宜�
 - 7天退款保证
 
 虽然不像ExpressVPN的30天内退款保证，但是如果有问题的话，基本上使用7天内就能发现了。
+
+### 4. <a href="https://www.vyprvpn.com/zh/refer/china?offer_id=235&aff_id=5234" target="_blank">VyprVPN</a>
+
+![VyprVPN](/image/vypr.jpg)
+
+VyprVPN成立于瑞士，是一家几乎和互联网同龄的公司，非常注重中国市场，在中国拥有大量用户，变色龙协议专门针对防火长城设计，拥有澳门等近距离节点，特别是iOS翻墙非常稳定，唯一的小问题是Ping值显示有问题，但并不影响使用。VyprVPN目前不支持支付宝，据说正在积极开发中
+
+- 注重中国市场
+
+VyprVPN对中国用户的重视，甚至有双十一的优惠活动，VyprVPN对抗防火长城而设计的变色龙协议，翻墙效果非常出色。
+
+- 高级加密
+
+使用目前顶级的工业级AES 256位加密方式，并提供DNS保护。
+
+- 流畅观看视频
+
+VyprVPN能够流畅观看Netflix、YouTube、Hulu、HBO、BBC iPlayer等高清视频资源，并且解锁区域封锁的限制
+
+- 30天退款保证
+
+VyprVPN支持30天退款保证，如果觉得不好用，可以通过在线客服或者邮件的方式退款。
 
 ### 5. <a href="https://billing.purevpn.com/aff.php?aff=40286" target="_blank">PureVPN</a>
 
