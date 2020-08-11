@@ -1,4 +1,4 @@
-# 2020中国最好用的翻墙软件VPN推荐，翻墙必备VPN，6月更新
+# 2020中国最好用的翻墙软件VPN推荐，翻墙必备VPN，8月更新
 
 ![好用的VPN，国内VPN，中国VPN，VPN中国，翻墙软件，VPN推荐](/image/wall.jpg "vpn")
 
@@ -146,7 +146,7 @@ Surfshark中文支持友好，不限制设备数量，这算是非常大的一�
 
 ![VPN推荐](/image/standard.jpg)
 
-我们的VPN推荐基于这些标准，所以我们也建议大家考虑下面这些选择标准，或者参考上面的VPN排名，而不是盲目的付费购买。
+我们的[推荐的中国VPN翻墙软件](https://qiangwaikan.com/best-vpn-china)基于这些标准，所以我们也建议大家考虑下面这些选择标准，或者参考上面的VPN排名，而不是盲目的付费购买。
 
 ### 推荐稳定可靠的VPN
 
@@ -170,7 +170,7 @@ Surfshark中文支持友好，不限制设备数量，这算是非常大的一�
 
 ### 其他翻墙姿势
 
-其实要翻墙也有其他姿势，原理都是一样的，只需要在国外一台服务器就行了，那么也可以自己购买国外VPS进行搭建，现在主流的是安装Shadowsocks或者V2Ray进行科学上网，VPS位置最好选择美西的比较稳定，推荐<a href="https://www.vultr.com/?ref=8148224" target="_blank">Vultr</a>的VPS，线路稳定价格适中。<a href="https://qiangwaikan.com/ssr/" target="_blank">Shadowsocks搭建教程</a>有详细的搭建过程，<a href="https://www.v2ray.com/" target="_blank">V2Ray</a>最近也比较火，跟Shadowsocks也差不多，搭建的话也不复杂，官网提供了详细的搭建过程，也提供了客户端软件。当然也可以直接使用付费Shadowsocks，其中我认为做的最好的时<a href="https://www.pancerra.xyz/r/9689528" target="_blank">PandaVPN</a>，他家开发了自己的客户端，免去了SSR开源客户端复杂的配置，只需登陆账号即可使用。当然我对目前开源翻墙协议还是表示担忧 ，因为Shadowsocks以及它的升级版SSR代码都是开源的，一旦用的人太多，很可能会被墙针对。2019年3月25北京理工大学提交的【基于长短期记忆网络的V2ray流量识别方法】的专利申请正在审核中，一旦通过之后，V2ray也就宣告失效。
+其实要翻墙也有其他姿势，原理都是一样的，只需要在国外一台服务器就行了，那么也可以自己购买国外VPS进行搭建，现在主流的是安装Shadowsocks或者V2Ray进行科学上网，VPS位置最好选择美西的比较稳定，推荐<a href="https://www.vultr.com/?ref=8148224" target="_blank">Vultr</a>的VPS，线路稳定价格适中。Shadowsocks搭建教程有详细的搭建过程，<a href="https://www.v2ray.com/" target="_blank">V2Ray</a>最近也比较火，跟Shadowsocks也差不多，搭建的话也不复杂，官网提供了详细的搭建过程，也提供了客户端软件。当然也可以直接使用付费Shadowsocks，其中我认为做的最好的时<a href="https://www.pancerra.xyz/r/9689528" target="_blank">PandaVPN</a>，他家开发了自己的客户端，免去了SSR开源客户端复杂的配置，只需登陆账号即可使用。当然我对目前开源翻墙协议还是表示担忧 ，因为Shadowsocks以及它的升级版SSR代码都是开源的，一旦用的人太多，很可能会被墙针对。2019年3月25北京理工大学提交的【基于长短期记忆网络的V2ray流量识别方法】的专利申请正在审核中，一旦通过之后，V2ray也就宣告失效。
 
 ## 关于VPN的一些问题
 
