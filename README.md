@@ -50,7 +50,33 @@ NordVPN支持几乎所有设备，能允许多达6台设备同时在线，这个
 
 NordVPN是国外知名商家，如果不能使用，也完全不用担心退款问题。
 
-### 3. <a href="https://www.pancerra.xyz/r/9689528" target="_blank">PandaVPN</a>
+### 3. <a href="https://get.surfshark.net/aff_c?offer_id=38&aff_id=2236" target="_blank">Surfshark</a>
+
+![Surfshark](/image/surfshark.png)
+
+Surfshark中文支持友好，不限制设备数量，这算是非常大的一个特点了，一般VPN商家都会限制设备数量，就稳定性和性价比都不错。
+
+- 注重中国市场
+
+在全球拥70+地区拥有服务器，最近的部署在中国香港地区，中文支持也非常友好
+
+- 安全性和匿名
+
+同样是具有军用级的加密技术，可以通过VPN实现匿名隐藏IP以及DNS隐藏等，最大限度的保护隐私安全。
+
+- 链接中断切换机制
+
+在复杂的网络连接中，网络意外断开是无法避免的事情，Surfshark实现了高效的网络切换。通过多个服务器的切换，这样也保证了隐私和匿名。
+
+- 7*24小时技术支持
+
+在使用过程中如果遇到问题，可以联系他们的技术团队，全天候在线。
+
+- 退款保证
+
+业界标准，30天退款保证。
+
+### 4. <a href="https://www.pancerra.xyz/r/9689528" target="_blank">PandaVPN</a>
 
 ![PandaVPN](/image/panda.png)
 
@@ -72,7 +98,7 @@ Panda VPN相比其他几家来说要小众一些，所以价格也相对便宜�
 
 虽然不像ExpressVPN的30天内退款保证，但是如果有问题的话，基本上使用7天内就能发现了。
 
-### 4. <a href="https://www.vyprvpn.com/zh/refer/china?offer_id=235&aff_id=5234" target="_blank">VyprVPN</a>
+### 5. <a href="https://www.vyprvpn.com/zh/refer/china?offer_id=235&aff_id=5234" target="_blank">VyprVPN</a>
 
 ![VyprVPN](/image/vypr.jpg)
 
@@ -94,7 +120,7 @@ VyprVPN能够流畅观看Netflix、YouTube、Hulu、HBO、BBC iPlayer等高清�
 
 VyprVPN支持30天退款保证，如果觉得不好用，可以通过在线客服或者邮件的方式退款。
 
-### 5. <a href="https://billing.purevpn.com/aff.php?aff=40286" target="_blank">PureVPN</a>
+### 6. <a href="https://billing.purevpn.com/aff.php?aff=40286" target="_blank">PureVPN</a>
 
 ![PureVPN](/image/pure.png)
 
@@ -115,32 +141,6 @@ PureVPN同样在全球70多个国家都配备了VPN服务器，拥有超过20000
 - 31天退款保证
 
 31天，比30天多一天，比32天少一天
-
-### 6. <a href="https://get.surfshark.net/aff_c?offer_id=38&aff_id=2236" target="_blank">Surfshark</a>
-
-![Surfshark](/image/surfshark.png)
-
-Surfshark中文支持友好，不限制设备数量，这算是非常大的一个特点了，一般VPN商家都会限制设备数量。不过就稳定性和性价比来说，我更建议你选择同价位的<a href="https://www.pancerra.xyz/r/9689528" target="_blank">Panda VPN</a>
-
-- 注重中国市场
-
-在全球拥70+地区拥有服务器，最近的部署在中国香港地区，中文支持也非常友好
-
-- 安全性和匿名
-
-同样是具有军用级的加密技术，可以通过VPN实现匿名隐藏IP以及DNS隐藏等，最大限度的保护隐私安全。
-
-- 链接中断切换机制
-
-在复杂的网络连接中，网络意外断开是无法避免的事情，Surfshark实现了高效的网络切换。通过多个服务器的切换，这样也保证了隐私和匿名。
-
-- 7*24小时技术支持
-
-在使用过程中如果遇到问题，可以联系他们的技术团队，全天候在线。
-
-- 退款保证
-
-业界标准，30天退款保证。
 
 ## 翻墙软件VPN推荐的标准
 
