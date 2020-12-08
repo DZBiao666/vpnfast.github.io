@@ -6,7 +6,7 @@
 
 ## 几个好用的翻墙软件VPN推荐，国内实测
 
-### 1. <a href="https://rrjccyc.com/zh-cn/?a_fid=vpnfast1&offer=3monthsfree" target="_blank">>> ExpressVPN</a>（强烈推荐）
+### 1. <a href="https://www.yyjlymb.xyz/?offer=3monthsfree&a_fid=vpnfast1" target="_blank">>> ExpressVPN</a>（强烈推荐）
 
 ![ExpressVPN](/image/express.png)
 
@@ -28,7 +28,7 @@ ExpressVPN可以说的上是业界的领导者了，凭借其出色的技术能�
 
 30之内如果你觉得ExpressVPN不好用，可以无条件退款，这点确实是大企业风范。
 
-### 2. <a href="https://www.pancerra.xyz/r/9689528" target="_blank">PandaVPN</a>
+### 2. <a href="https://www.panhdpe.xyz/r/9689528" target="_blank">PandaVPN</a>
 
 ![PandaVPN](/image/panda.png)
 
