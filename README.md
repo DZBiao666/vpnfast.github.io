@@ -146,7 +146,7 @@ NordVPN是国外知名商家，如果不能使用，也完全不用担心退款�
 
 ![VPN推荐](/image/standard.jpg)
 
-我们的[推荐的中国VPN翻墙软件](https://qiangwaikan.com/best-vpn-china)基于这些标准，所以我们也建议大家考虑下面这些选择标准，或者参考上面的VPN排名，而不是盲目的付费购买。
+我们的[推荐的中国VPN翻墙软件](https://qiangwaikan.com/best-vpn-china/)基于这些标准，所以我们也建议大家考虑下面这些选择标准，或者参考上面的VPN排名，而不是盲目的付费购买。
 
 ### 推荐稳定可靠的VPN
 
